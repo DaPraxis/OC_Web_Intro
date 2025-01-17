@@ -1,4 +1,3 @@
 [build]
-  base = "/"
-  command = "gem update --system && bundle install && jekyll build"
+  command = "gem update --system && bundle config set path 'vendor/bundle' && bundle install && jekyll build"
   publish = "_site"
