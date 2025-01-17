@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE 390HA
-tagline: Restorying Computing
-description: CSE 142 Honors Seminar, Autumn 2020
+title: WEB 101
+tagline: Learning Web Programming with HTML, CSS & Javascript
+description: WEB 101 Building Your First Academic Personal Website, 2025
 author: Kevin Lin
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://https://fasttrackweb101.netlify.app' # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,7 +28,7 @@ color_scheme: light
 search_enabled: false
 heading_anchors: false
 permalink: pretty
-footer_content: 'Kevin Lin &copy; 2020 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Max Jiang &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:

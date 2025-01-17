@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Max Jiang
 role: Instructor
-email: kevinl@cs.uw.edu
-website: https://kevinl.info
-photo: kevin-lin.jpg
+email: haoyanhy.jiang@mail.utoronto.ca
+website: https://fasttrackacademy.net/team
+photo: max.png
 pronouns: he/him
 ---
 
