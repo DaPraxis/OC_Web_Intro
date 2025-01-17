@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
-ruby "3.0.4"
-gem "jekyll", "~> 4.0"
-gem 'github-pages', group: :jekyll_plugins
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3.4" # or the latest version
+gem "jekyll-sitemap"      # Example plugin
+gem "jekyll-seo-tag"      # Example plugin
