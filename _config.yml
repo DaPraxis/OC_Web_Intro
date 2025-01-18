@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: WEB 101
-tagline: Learning Web Programming with HTML, CSS & Javascript
+tagline: Web Programming with HTML, CSS & Javascript
 description: WEB 101 Building Your First Academic Personal Website, 2025
-author: Kevin Lin
+author: Max Jiang
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://https://fasttrackweb101.netlify.app' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

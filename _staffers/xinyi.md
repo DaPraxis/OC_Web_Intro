@@ -1,10 +1,10 @@
 ---
-name: Max Jiang
+name: Xinyi Liu
 role: Instructor
-email: haoyanhy.jiang@mail.utoronto.ca
 website: https://fasttrackacademy.net/team
-photo: max.png
-pronouns: he/him
+photo: xinyi.png
+pronouns: she/her
+section: Tutorial
 ---
 
 [Schedule a meeting](https://kevinl.info/meet/){: .btn .btn-outline }
